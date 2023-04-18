@@ -2,7 +2,7 @@
 
 AtliQ Hardwares is computer spare parts manufacturer. This project contains the detailed Data Analysis on its Overall Business performance using MS Power BI
 
-![Link to Power BI file](https://drive.google.com/file/d/1EJnTi_-Cc9MAPXC0MbruWbBnpzc7bhzX/view?usp=sharing)
+[Link to Power BI file](https://drive.google.com/file/d/1EJnTi_-Cc9MAPXC0MbruWbBnpzc7bhzX/view?usp=sharing)
 
 ## Landing Page
 ![Landing Page](https://user-images.githubusercontent.com/84430963/232818861-b1c57867-4803-4b1d-ae50-174f217c3880.png)
